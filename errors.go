@@ -1,4 +1,5 @@
 package main
+/*
 
 import (
 	"errors"
@@ -84,3 +85,4 @@ func main() {
 	fmt.Println("err doesn't match argError")
   }
 }
+*/
