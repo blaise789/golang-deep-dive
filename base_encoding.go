@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	bs64 "encoding/base64"
 	"fmt"
 )
@@ -14,3 +14,4 @@ fmt.Println(uEnc)
 uDec,_:=bs64.URLEncoding.DecodeString(uEnc)
 fmt.Println(string(uDec))
 }
+*/
