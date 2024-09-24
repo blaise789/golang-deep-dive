@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	"fmt"
 	"os"
 	"text/template"
@@ -12,6 +12,7 @@ func main() {
 	t1 := template.New("t1")
 	fmt.Println(t1)
 	t1, err := t1.Parse("value is {{.}} \n")
+	// analyses and understand how to  replace placeholders
 	fmt.Println(t1)
 
 	if err != nil {
@@ -27,3 +28,5 @@ func main() {
 
 	
 } 
+
+*/
